@@ -1,0 +1,1 @@
+curl -X POST http://localhost:9880/synthesize -H "Content-Type: application/json" -d @request.json --output output.wav
